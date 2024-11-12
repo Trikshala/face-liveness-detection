@@ -1,0 +1,16 @@
+gradio
+onnx
+opencv-python-headless
+numpy
+transformers
+torch
+torchvision
+onnxruntime
+opencv-python
+psutil
+matplotlib
+seaborn
+
+
+
+
